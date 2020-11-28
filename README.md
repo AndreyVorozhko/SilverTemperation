@@ -14,3 +14,13 @@
 
 ## Примечания
 Идентичный [файл](https://drive.google.com/file/d/1AwvIaKzoXFhIgMEQi1tB9Ozcyn9ZRcAT/view?usp=sharing, "Перейти в Гугл-таблицы") расчетов есть в формате Гугл-таблиц
+
+Имеются звуковые файлы, которые позволяют сравнить звучание музыки в привычном равномерно-темперированном строе и серебрянном на основе звездной секунды:
+
+[AveMaria-A440Equal.mp3](https://github.com/AndreyVorozhko/SilverTemperation/raw/main/AveMaria-A440Equal.mp3 "Дж. Каччини "Ave Maria" в равномерно-темперированном строе") - Дж. Каччини "Ave Maria" в равномерно-темперированном строе (эталонное "ля" первой октавы = 440 Гц)
+
+[AveMaria-StarsSecSilver.mp3](https://github.com/AndreyVorozhko/SilverTemperation/raw/main/AveMaria-StarsSecSilver.mp3 "Дж. Каччини "Ave Maria" в серебрянном строе на основе звездной секунды") - Дж. Каччини "Ave Maria" в серебрянном строе на основе звездной секунды (эталонное "ля" первой октавы = 433,1542921 Гц)
+
+[K_Elize-A440Equal.mp3](https://github.com/AndreyVorozhko/SilverTemperation/raw/main/K_Elize-A440Equal.mp3 "Л. В. Бетховен "К Элизе" в равномерно-темперированном строе") - Л. В. Бетховен "К Элизе" в равномерно-темперированном строе (эталонное "ля" первой октавы = 440 Гц)
+
+[K_Elize-StarsSecSilver.mp3](https://github.com/AndreyVorozhko/SilverTemperation/raw/main/K_Elize-StarsSecSilver.mp3 "Л. В. Бетховен "К Элизе" в серебрянном строе на основе звездной секунды") - Л. В. Бетховен "К Элизе" в серебрянном строе на основе звездной секунды (эталонное "ля" первой октавы = 433,1542921 Гц)
